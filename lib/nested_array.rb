@@ -19,7 +19,7 @@ ENFIELD_TENNIS_ACADEMY = [
 def assembled_matrix
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
-  array = [ENNET_HOUSE, NFIELD_TENNIS_ACADEMY]
+  array = [ENNET_HOUSE, EFIELD_TENNIS_ACADEMY]
 end
 
 def array_literal_matrix
